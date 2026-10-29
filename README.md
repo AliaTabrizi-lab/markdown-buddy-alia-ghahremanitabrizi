@@ -1,6 +1,6 @@
 # Synthetic Sales Data Exploration
 
-> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique, and ChatGPT (GPT-6, October 26, 2026) for preparation of the rebuilt project files and documentation wording. The prompts and key responses available for this work are summarized in Appendix_AI_Prompts.md. I reviewed the project files for consistency; The supplied screenshots show the GitHub README preview and successful R Markdown HTML rendering. I manually checked the Books category revenue as (3 × 12) + (5 × 12) = 96; other numerical results have not been independently verified. I am responsible for the accuracy and originality of this work.
+> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique. The prompts and key responses available for this work are summarized in Appendix_AI_Prompts.md. I reviewed the project files for consistency; The supplied screenshots show the GitHub README preview and successful R Markdown HTML rendering. I manually checked the Books category revenue as (3 × 12) + (5 × 12) = 96; other numerical results have not been independently verified. I am responsible for the accuracy and originality of this work.
 
 ## Overview
 This introductory R project demonstrates how to inspect a small **synthetic** sales dataset, summarize sales by product category, and create a basic chart. It is a documentation exercise for CDI College BDA400, not an analysis of actual customers or business records.
