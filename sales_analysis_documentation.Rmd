@@ -5,7 +5,7 @@ date: "2026-10-26"
 output: html_document
 ---
 
-> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique, and ChatGPT (GPT-6, October 26, 2026) for preparation of the rebuilt project files and documentation wording. The prompts and key responses available for this work are summarized in Appendix_AI_Prompts.md. I reviewed the project files for consistency; The supplied screenshots show the GitHub README preview and successful R Markdown HTML rendering. I manually checked the Books category revenue as (3 × 12) + (5 × 12) = 96; other numerical results have not been independently verified. I am responsible for the accuracy and originality of this work.
+> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique. The prompts and key responses available for this work are summarized in Appendix_AI_Prompts.md. I reviewed the project files for consistency; The supplied screenshots show the GitHub README preview and successful R Markdown HTML rendering. I manually checked the Books category revenue as (3 × 12) + (5 × 12) = 96; other numerical results have not been independently verified. I am responsible for the accuracy and originality of this work.
 
 # Purpose
 This document explains an introductory base R script that creates synthetic sales observations, calculates revenue by category, and plots a bar chart. All data are invented for classroom use.
