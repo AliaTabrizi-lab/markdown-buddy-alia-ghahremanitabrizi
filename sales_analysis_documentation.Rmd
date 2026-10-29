@@ -5,7 +5,7 @@ date: "2026-10-26"
 output: html_document
 ---
 
-> **AI Assistance Declaration:** AI Assistance Declaration: I used ChatGPT (GPT-6, 2026-10-26) for documentation planning, Markdown drafting, wording, and formatting suggestions. Prompts and key responses are recorded in Appendix_AI_Prompts.md. I must verify the generated documentation in GitHub and knit the R Markdown file in RStudio or Posit Cloud before submission. No numerical results are claimed as independently calculated. I am responsible for the accuracy and originality of the submitted work.
+> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique, and ChatGPT (GPT-6, October 26, 2026) for preparation of the rebuilt project files and documentation wording. The prompts and key responses available for this work are summarized in Appendix_AI_Prompts.md. I reviewed the project files for consistency; The supplied screenshots show the GitHub README preview and successful R Markdown HTML rendering. I manually checked the Books category revenue as (3 × 12) + (5 × 12) = 96; other numerical results have not been independently verified. I am responsible for the accuracy and originality of this work.
 
 # Purpose
 This document explains an introductory base R script that creates synthetic sales observations, calculates revenue by category, and plots a bar chart. All data are invented for classroom use.
@@ -25,9 +25,9 @@ The script prints a category revenue summary and produces a bar chart. Inspect b
 
 ## Validation
 1. Run `sales_analysis.R` in RStudio or Posit Cloud.
-2. Check the synthetic input rows and independently verify at least one revenue multiplication and category total.
-3. Knit this document and inspect the generated HTML for headings, code highlighting, table text, and the plot.
-4. Compare the final GitHub README preview against the local Markdown file.
+2. Independently verify a revenue calculation and category total. The Books total was manually confirmed as (3 × 12) + (5 × 12) = 96.
+3. Knit this document and inspect the generated HTML for headings, code highlighting, table text, and the plot. Successful HTML rendering is documented in the supplied RStudio screenshots.
+4. Compare the final GitHub README preview against the local Markdown file; confirm the latest revised files are committed to the repository.
 
 ## Limitations
 This is a very small synthetic example; it does not represent a real business dataset and should not support business conclusions.

@@ -1,6 +1,6 @@
 # Synthetic Sales Data Exploration
 
-> **AI Assistance Declaration:** AI Assistance Declaration: I used ChatGPT (GPT-6, 2026-10-26) for documentation planning, Markdown drafting, wording, and formatting suggestions. Prompts and key responses are recorded in Appendix_AI_Prompts.md. I must verify the generated documentation in GitHub and knit the R Markdown file in RStudio or Posit Cloud before submission. No numerical results are claimed as independently calculated. I am responsible for the accuracy and originality of the submitted work.
+> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique, and ChatGPT (GPT-6, October 26, 2026) for preparation of the rebuilt project files and documentation wording. The prompts and key responses available for this work are summarized in Appendix_AI_Prompts.md. I reviewed the project files for consistency; The supplied screenshots show the GitHub README preview and successful R Markdown HTML rendering. I manually checked the Books category revenue as (3 × 12) + (5 × 12) = 96; other numerical results have not been independently verified. I am responsible for the accuracy and originality of this work.
 
 ## Overview
 This introductory R project demonstrates how to inspect a small **synthetic** sales dataset, summarize sales by product category, and create a basic chart. It is a documentation exercise for CDI College BDA400, not an analysis of actual customers or business records.
@@ -35,15 +35,15 @@ rmarkdown::render("sales_analysis_documentation.Rmd")
 The script generates a small, deterministic synthetic dataset internally. It does not require external data or collect personal information.
 
 ## Outputs
-When run successfully, the script prints a category-level summary and displays a bar chart. Actual numerical values must be checked by running the script; no unverified results are reported here.
+When run successfully, the script prints a category-level summary and displays a bar chart. The supplied RStudio screenshots show the rendered output. The Books category total was independently checked as (3 × 12) + (5 × 12) = 96; other totals have not been manually verified.
 
 ## Documentation and Validation
-Review the Markdown preview in GitHub, confirm code fences and headings, run the R script, and knit the `.Rmd` file. Record outcomes in the appendix before submission.
+The supplied screenshots show the GitHub README preview and successful R Markdown HTML knitting. A separate manual check confirmed the Books category total of 96. See the appendix for the verification record and remaining administrative checks.
 
 ## License
 Educational demonstration only. No external license has been assigned.
 
 ## AI Assistance Disclosure
-- **Tool:** ChatGPT (GPT-6), October 26, 2026.
-- **Main prompts:** Draft an R project README; refine installation, example code, and license sections; check Markdown syntax; organize a script documentation file.
-- **Edits and review:** The draft uses synthetic data, explicitly states dependencies, separates script and documentation, and avoids unsupported claims about execution. GitHub preview and R Markdown rendering remain to be verified by the student.
+- **Tools:** Microsoft Copilot (drafting, refinement, and critique; version not recorded in available screenshots) and ChatGPT (GPT-6, October 26, 2026; rebuilt documentation).
+- **Main prompts:** Explain suitable R README sections; revise with Markdown headings and bullets; check syntax and readability; draft and refine project documentation. See `Appendix_AI_Prompts.md`.
+- **Edits and review:** Corrected claims about external CSV/PNG files, described the internally generated synthetic data, and removed an unsupported MIT license claim. The supplied screenshots document GitHub README display and successful R Markdown HTML rendering; the Books revenue total of 96 was checked manually.

@@ -1,11 +1,11 @@
 # Appendix — AI Prompts and Verification
 
-> **AI Assistance Declaration:** AI Assistance Declaration: I used ChatGPT (GPT-6, 2026-10-26) for documentation planning, Markdown drafting, wording, and formatting suggestions. Prompts and key responses are recorded in Appendix_AI_Prompts.md. I must verify the generated documentation in GitHub and knit the R Markdown file in RStudio or Posit Cloud before submission. No numerical results are claimed as independently calculated. I am responsible for the accuracy and originality of the submitted work.
+> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique, and ChatGPT (GPT-6, October 26, 2026) for preparation of the rebuilt project files and documentation wording. Representative prompts and key responses are summarized in Appendix_AI_Prompts.md. I compared the documentation against the project files and reviewed the supplied GitHub and RStudio screenshot evidence. The screenshots support GitHub README display and successful R Markdown HTML rendering; I manually verified the Books category revenue: (3 × 12) + (5 × 12) = 96. I am responsible for the accuracy and originality of this work.
 
 ## Tool and session
-ChatGPT (GPT-6), October 26, 2026. The following records describe the AI drafting workflow used to prepare this package. They are not a claim that the student personally typed each prompt or performed the pending checks.
+Microsoft Copilot was used for the README drafting, refinement, and critique shown in screenshots (exact version and session date not independently established). ChatGPT (GPT-6) was used on October 26, 2026 for rebuilding the project documentation. The prompts below summarize documented or source-instruction prompts; they are not a verbatim transcript of every interaction.
 
-## Prompt and response record
+## Representative prompts and key responses
 
 **Prompt 1:** "Explain what sections a good GitHub README for an R data analysis project should include."
 
@@ -27,18 +27,24 @@ ChatGPT (GPT-6), October 26, 2026. The following records describe the AI draftin
 
 **Key response:** R Markdown documentation with YAML header, descriptive sections, and an executable R chunk.
 
-## Required student verification — not yet completed
-- [ ] Read the official GitHub Markdown guide and compare the outline to a tidyverse README.
-- [ ] Run `sales_analysis.R` in RStudio/Posit Cloud and inspect console output and chart.
-- [ ] Independently check a revenue multiplication and category sum.
-- [ ] Knit `sales_analysis_documentation.Rmd` and inspect the generated HTML.
-- [ ] Create GitHub repository `markdown-buddy-alia-ghahremanitabrizi` and upload the project files.
-- [ ] Confirm the GitHub README preview displays headings, links, lists, and code fences correctly.
-- [ ] Replace provisional reflection prompts with the instructor's actual three questions, if available.
-- [ ] Capture evidence screenshots of the repository and knitted document.
+## Verification record and outstanding checks
 
-## Suggested evidence filenames
-- `Evidence_01_GitHub_Repository.png`
-- `Evidence_02_README_Preview.png`
-- `Evidence_03_RMarkdown_Knit.png`
-- `Evidence_04_R_Script_Output.png`
+### Supported by the supplied evidence
+- [x] Repository and README display are shown in the submitted GitHub screenshots.
+- [x] R Markdown rendered HTML and the revenue chart are shown in the submitted RStudio screenshots (Figures 7–8 of the final report).
+- [x] Project documentation was compared with the source R script, and unsupported claims were corrected.
+
+### Still requiring student confirmation
+- [x] Independently checked Books revenue: (3 × 12) + (5 × 12) = 96 (student-confirmed manual calculation).
+- [ ] Confirm the exact three reflection questions if the instructor provided them separately.
+- [ ] Confirm the exact final Copilot prompts, version, and usage date from the original session records where available; the prompts above are representative summaries, not a full transcript.
+- [ ] Confirm the repository name follows `markdown-buddy-[yourname]` and the latest corrected files are uploaded.
+- [ ] Confirm the official GitHub Markdown guide and a comparable real repository were reviewed, if not already done.
+
+## Documentation corrections
+- Removed unsupported claims about external CSV inputs and generated PNG files.
+- Identified the dataset as synthetic and generated inside the R script.
+- Removed the unsupported MIT license claim.
+- Clarified AI tool attribution and distinguished screenshot-supported checks from the student-confirmed Books revenue check.
+
+**Evidence:** GitHub, Copilot, and RStudio screenshots are embedded in the final PDF report. No separate screenshot files are required for this project folder.
