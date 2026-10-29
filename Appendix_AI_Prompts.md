@@ -1,9 +1,9 @@
 # Appendix — AI Prompts and Verification
 
-> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique, and ChatGPT (GPT-6, October 26, 2026) for preparation of the rebuilt project files and documentation wording. Representative prompts and key responses are summarized in Appendix_AI_Prompts.md. I compared the documentation against the project files and reviewed the supplied GitHub and RStudio screenshot evidence. The screenshots support GitHub README display and successful R Markdown HTML rendering; I manually verified the Books category revenue: (3 × 12) + (5 × 12) = 96. I am responsible for the accuracy and originality of this work.
+> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique. Representative prompts and key responses are summarized in Appendix_AI_Prompts.md. I compared the documentation against the project files and reviewed the supplied GitHub and RStudio screenshot evidence. The screenshots support GitHub README display and successful R Markdown HTML rendering; I manually verified the Books category revenue: (3 × 12) + (5 × 12) = 96. I am responsible for the accuracy and originality of this work.
 
 ## Tool and session
-Microsoft Copilot was used for the README drafting, refinement, and critique shown in screenshots (exact version and session date not independently established). ChatGPT (GPT-6) was used on October 26, 2026 for rebuilding the project documentation. The prompts below summarize documented or source-instruction prompts; they are not a verbatim transcript of every interaction.
+Microsoft Copilot was used for the README drafting, refinement, and critique shown in screenshots (exact version and session date not independently established).The prompts below summarize documented or source-instruction prompts; they are not a verbatim transcript of every interaction.
 
 ## Representative prompts and key responses
 
