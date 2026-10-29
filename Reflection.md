@@ -1,6 +1,6 @@
 # Reflection — BDA400 Assignment 1
 
-> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique, and ChatGPT (GPT-6, October 26, 2026) for preparation of the rebuilt project files and documentation wording. Representative prompts and key responses are summarized in Appendix_AI_Prompts.md. I compared the documentation against the project files and reviewed the supplied GitHub and RStudio screenshot evidence. The screenshots support GitHub README display and successful R Markdown HTML rendering; I manually verified the Books category revenue: (3 × 12) + (5 × 12) = 96. I am responsible for the accuracy and originality of this work.
+> AI Assistance Declaration: I used Microsoft Copilot for README structure, drafting, refinement, and Markdown critique. Representative prompts and key responses are summarized in Appendix_AI_Prompts.md. I compared the documentation against the project files and reviewed the supplied GitHub and RStudio screenshot evidence. The screenshots support GitHub README display and successful R Markdown HTML rendering; I manually verified the Books category revenue: (3 × 12) + (5 × 12) = 96. I am responsible for the accuracy and originality of this work.
 
 **Student:** Alia GhahremaniTabrizi
 
